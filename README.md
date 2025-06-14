@@ -1,2 +1,2 @@
-# jaycho.github.io
+# https://jaycho.work
 Technical Analysis Portfolio
