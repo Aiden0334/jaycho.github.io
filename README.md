@@ -1,2 +1,2 @@
-# https://jaycho.work
+# https://jaycho.myportfolio.com
 Technical Analysis Portfolio
