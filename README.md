@@ -1,2 +1,3 @@
 # https://jaycho.myportfolio.com
-Technical Analysis Portfolio
+Technical Analysis Blog 
+It is not the portfolio site for job apply. It is required for technical trading. 
